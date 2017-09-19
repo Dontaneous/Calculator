@@ -1,0 +1,9 @@
+c:\users\dntjn\onedrive\documents\visual studio 2015\Projects\p1_daj3817\p1_daj3817\bin\Debug\p1_daj3817.exe.config
+c:\users\dntjn\onedrive\documents\visual studio 2015\Projects\p1_daj3817\p1_daj3817\bin\Debug\p1_daj3817.exe
+c:\users\dntjn\onedrive\documents\visual studio 2015\Projects\p1_daj3817\p1_daj3817\bin\Debug\p1_daj3817.pdb
+c:\users\dntjn\onedrive\documents\visual studio 2015\Projects\p1_daj3817\p1_daj3817\obj\Debug\p1_daj3817.csprojResolveAssemblyReference.cache
+c:\users\dntjn\onedrive\documents\visual studio 2015\Projects\p1_daj3817\p1_daj3817\obj\Debug\p1_daj3817.FormCalculator.resources
+c:\users\dntjn\onedrive\documents\visual studio 2015\Projects\p1_daj3817\p1_daj3817\obj\Debug\p1_daj3817.Properties.Resources.resources
+c:\users\dntjn\onedrive\documents\visual studio 2015\Projects\p1_daj3817\p1_daj3817\obj\Debug\p1_daj3817.csproj.GenerateResource.Cache
+c:\users\dntjn\onedrive\documents\visual studio 2015\Projects\p1_daj3817\p1_daj3817\obj\Debug\p1_daj3817.exe
+c:\users\dntjn\onedrive\documents\visual studio 2015\Projects\p1_daj3817\p1_daj3817\obj\Debug\p1_daj3817.pdb
